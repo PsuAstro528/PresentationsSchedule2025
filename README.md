@@ -1,31 +1,27 @@
 # Schedule for Class Project Presentations, Fall 2025
 
-
 - Wednesday, Dec 3:
-  - AA
-  - BB
-  - CC
+  - Diskfit
+  - Silksong
+  - SpacedOut
 
 - Friday, Dec 5:
-  - DD
-  - EE
-  - FF
-  - GG
-  - HH
-  - II
+  - Data Prep Project
+  - Project (NN & NM)
+  - Simulation based inference
+  - WD_NS_Interaction
 
 - Wednesday, Dec 10:
-  - JJ
-  - KK
-  - LL
+  - EMCCD_data_processing
+  - ExoMantle
+  - gcSED
 
 - Friday, Dec 12:
-  - MM
-  - NN
-  - OO
-  - PP
-  - QQ
-  - RR
+  - GRB_Afterglow
+  - Neural Density Estimation
+  - ParaSpectra
+  - PyXFocus
+  - Thin_films
  
 ## How to reschedule your presentation:
-- If you need to reschedule your presentation, then please find another student to swap with and then submit a pull request proposing the swap.
+- If you need to reschedule your presentation, then please find another student/group to swap with and then submit a pull request proposing the swap.
