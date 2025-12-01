@@ -9,12 +9,12 @@
   - Data Prep Project
   - Project (NN & NM)
   - Simulation based inference
-  - WD_NS_Interaction
+  - EMCCD_data_processing
 
 - Wednesday, Dec 10:
-  - EMCCD_data_processing
   - ExoMantle
   - gcSED
+  - WD_NS_Interaction
 
 - Friday, Dec 12:
   - GRB_Afterglow
