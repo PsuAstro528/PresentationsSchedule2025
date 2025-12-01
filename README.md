@@ -25,3 +25,6 @@
  
 ## How to reschedule your presentation:
 - If you need to reschedule your presentation, then please find another student/group to swap with and then submit a pull request proposing the swap.
+
+  
+**After discussing amongst the three of us, we would like to request a swap between Tristen Sextro's time on Wednesday, Dec 10 and Victor Liu/Tristan Weaver's time on Friday, Dec 5. This is because Tristan Weaver has to cover a class from 12:20-1:10 on Friday, Dec 5 which conflicts with the class period for ASTR 528.** 
